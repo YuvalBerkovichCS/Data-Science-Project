@@ -16,3 +16,5 @@ Showing the information using Line and Bar charts
 # Machine Learning
 Predicting the price per square meter of an apartment for each area in Gush Dan
 
+# Final Project Video
+https://www.youtube.com/watch?v=9ECc_xbFWtw
